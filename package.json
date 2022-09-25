@@ -1,0 +1,17 @@
+{
+  "name": "kestrel-docs",
+  "version": "1.0.0",
+  "description": "Documentation for the Kestrel Substructure",
+  "main": "index.js",
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start"
+  },
+  "author": "dek <dek@substructure.one>",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "@docusaurus/core": "^2.1.0",
+    "@docusaurus/preset-classic": "^2.1.0",
+    "react": "^17.0.2"
+  }
+}
