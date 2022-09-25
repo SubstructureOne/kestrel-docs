@@ -10,11 +10,11 @@ you're
 paying to store your own data, you should be provided the tools to see what 
 you're paying for and whether it's worth it.
 
-But the main reason for the self-managed database is not the pricing model 
+The main reason for the self-managed database however is not the pricing model 
 but the principle. By providing full access and transparency to user data, 
 Kestrel provides full ownership to users over the data they generate through 
 using Kestrel applications. Any data they generate they are able to freely 
-modify or delete.
+inspect, modify, and delete.
 
 ## Crytography
 

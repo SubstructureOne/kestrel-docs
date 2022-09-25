@@ -31,7 +31,7 @@ disincentive to using the product, it means that SaaS applications can scale
 up automatically without the need for upfront investment or a proper 
 business model.
 
-More enterprising users can pre-fund an account for their application and 
+More enterprising creators can pre-fund an account for their application and 
 define rules that allow users to experience a "free tier". In fact, you can 
 even take an existing Kestrel application and redeploy it with your own 
 business model using tiers, subscription pricing, or whatever you think will 

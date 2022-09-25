@@ -8,7 +8,7 @@ by the app developer.
 In line with the [Self Managed Database](../Pillars/selfmanageddb) pillar,
 users have full access to the files associated with the applications they 
 use. Be aware when developing your application that power users may decide 
-to add, modify, or delete files within your applications sub-prefix on their 
+to add, modify, or delete files within your application's sub-prefix on their 
 own accord.
 
 ## API

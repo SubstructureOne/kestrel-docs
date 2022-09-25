@@ -38,7 +38,7 @@ not just for projects that run on the Kestrel substructure.
 ## Defining Premiums & Income Shares
 
 How are premiums and income shares defined? There are a few different models 
-we have in mind:
+to consider:
 
 ### Self-Defined Compensation
 
@@ -67,5 +67,5 @@ predictions to define the actual shares/premiums, and then in some way
 reward users whose predictions were close to the final result. In this sense 
 it would be a "self-fulfilling prophecy" form of a market.
 
-This approach would also need to be carefully designed to prevent abuse. But 
+This approach would also need to be carefully designed to prevent abuse, but 
 aspirationally it might provide the best target model.

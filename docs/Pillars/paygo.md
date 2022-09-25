@@ -8,10 +8,10 @@ The Kestrel substructure adopts the uncommon approach of having end-users
 pay for infrastructure costs imposed by their usage of a given application 
 (plus a premium: see the [Fair Compensation](faircompensation) 
 documentation). In this way creators don't need to worry about business 
-models or upfront investment - *all* of their users pay their own way.
+models or upfront investment - their users pay their own way.
 
 This does of course provide a barrier to adoption, as users effectively 
-cannot even test-run a product without setting up some form of payment. We 
+cannot test-run a product without setting up some form of payment. We 
 try to address this concern in the following ways:
 
 ## Nanotransactions
