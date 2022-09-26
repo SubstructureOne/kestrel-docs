@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'My Site',
-    url: 'https://kestreldocs.substructure.one',
+    title: 'Kestrel Substructure Documentation',
+    url: 'https://docs.kestrel.codes',
     tagline: "this is the tagline",
     baseUrl: '/',
     presets: [
