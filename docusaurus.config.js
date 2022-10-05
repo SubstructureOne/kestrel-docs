@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
     title: 'Kestrel Substructure Documentation',
     url: 'https://docs.kestrel.codes',
-    tagline: "this is the tagline",
+    tagline: "Substructure for Open Source SaaS Sustainability",
     baseUrl: '/',
     presets: [
         [
