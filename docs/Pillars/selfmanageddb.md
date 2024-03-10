@@ -18,11 +18,18 @@ inspect, modify, and delete.
 
 ## Crytography
 
-The [Kestrel Photos](https://kestrelphotos.substructure.one) sample 
+The [Kestrel Photos](https://github.com/SubstructureOne/kestrelphotos) sample 
 application goes a step further and encrypts all data at upload time. No one 
 other than those with access to the private key used to encrypt uploaded 
 images is able to extract the image data provided - not the app developers 
 or even the hosting providers.
+
+:::note
+
+The Kestrel Photos app is implemented using a deprecated version of the Kestrel
+substructure and is not currently actively maintained.
+
+:::
 
 Kestrel does not itself provide any built-in cryptographic functionality; 
 Kestrel Photos relies on the web browser's built-in support. The lack of 

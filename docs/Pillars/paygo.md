@@ -20,30 +20,25 @@ The actual infrastructure costs associated with most cloud-based services
 are, when looked at from an individual user's perspective, truly miniscule. 
 The concept of "microtransactions" has existed for some time but 
 unfortunately has become something of a misnomer - spending $1, $5, or even 
-$10+ on (usually in-game) purchases hardly qualifies as "micro"-anything. 
+$10+ on in-app purchases hardly qualifies as "micro"-anything. 
 Most individual transactions on the Kestrel substructure will be measured in 
 fractions of a cent, or (for recurring storage costs) maybe a few cents per 
-month. Therefore we denote these as "nanotransactions" - costs that (again, 
-for the typical application) will be so small as to be barely noticable.
+month. Therefore we denote these as "nanotransactions" - costs that 
+for the typical application will be so small as to be barely noticeable.
 
-## Micropayment Support via the Blockchain
+## Micropayment Support
 
 Nanotransactions are handled internally in the Kestrel substructure database 
 to minimize transaction costs. However users still need to transfer actual 
-money into their accounts to get started. Using traditional credit card 
-payment processors, it is not feasible to accept payments of less than 
-a few dollars. However with certain transaction-efficient blockchains, such as 
-Solana, users can easily transfer amounts in the range of $0.01 to $0.10 to 
-get started and have plenty of headroom to experiment with their fair share 
-of Kestrel applications.
+money into their accounts to get started. Using a traditional monthly invoice
+method runs into issue for the typical user as processing fees overshadow the
+actual service fees. To handle this users instead initiate one-time transfers
+when needed to keep their account active.
 
-Note that individual nanotransactions are *not* recorded on any blockchain. 
-Only initial account funding transactions are supported via blockchain 
-transactions. Kestrel is not a "blockchain-native" product, but happily 
-takes advantages of blockchain features when applicable.
+Auto-refilling of your account, similar to how electronic car charging apps
+and toll road pass infrastructure typically works, is planned but not yet
+supported.
 
-Traditional payment provider support is also planned, but will require a 
-higher minimum transaction.
 
 ## Alternative Business Model Support
 

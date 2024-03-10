@@ -42,12 +42,24 @@ to consider:
 
 ### Self-Defined Compensation
 
-A simple starting point would be to allow creators to define an initial 
-premium and income sharing split. There are clear downsides to this model 
-however. Someone could simply fork someone else's project, decrease the 
-premium to make it more attractive to 
-users, and then define all income to go solely to themselves, with no 
+A simple starting point would be to allow creators to define an initial
+premium and income sharing split. There are clear downsides to this model
+however. Someone could simply fork someone else's project, decrease the
+premium to make it more attractive to
+users, and then define all income to go solely to themselves, with no
 recognition of the original creators' contributions.
+
+### Substructure.one-Defined Compensation
+
+In this model, [substructure.one](https://substructure.one) (the organization 
+behind Kestrel) determines
+the compensation model. This is the current model we use for compensation.
+
+In this model, only projects that have a well-defined sponsorship model
+(typically via [Github Sponsors](https://github.com/sponsors) or
+[Open Collective](https://opencollective.com/)) are eligible for compensation.
+Compensation rates are determined via a holistic but admittedly ad hoc
+assessment.
 
 ### Community-Based Compensation
 
@@ -67,4 +79,5 @@ predictions to define the actual shares/premiums, and then in some way
 reward users whose predictions were close to the final result. In this sense 
 it would be a "self-fulfilling prophecy" form of a market.
 
-This approach would also need to be carefully designed to prevent abuse.
+This approach would need to be carefully designed to prevent abuse. It may be
+more of an interesting thought exercise than an actually practical model.
